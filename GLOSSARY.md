@@ -1,5 +1,5 @@
 Connate water is water that was in the reservoir way before the forming of hydrocarbon.
-Forces that push oil out of a reservoir are : solution gas drive, gas cap drive, water expansion, water influx from a nearby aquifer, oil expansion.
+Forces that push oil out of a reservoir are : solution gas drive, gas cap drive, water expansion, water influx from a nearby aquifer, oil expansion, Gravity drainage and rock and connate water expansion are also energies that push oil out of the reservoir.
 1bbl=5.615ft3 also 42USgal
 1m3=6.2898bbls. 1acre-ft=7758bbls.
 1acre=4046.9m2 also 43560ft2. 1inch=2.54cm, 1ft=0.3048m. 1hectare=10000m2=2.471acres. 640acres=1sq-mile. 1.609km=1mile.
@@ -13,7 +13,7 @@ Mobility=KKr/U. Mobility ratio=Mobilityof displacing fluid/mobility of displaced
 LNG is stored at -162'C
 Gas recovers the least 5-30%, water recovers the most - 35-70%.
 Capillary pressure=Pressure of non-wetting phase-Pressure of wetting phase.
-API=(141.5/SG)-131.5, while SG=141.5/('API+131.5), for water API=10 and SG=1, the ranges for API LIGHT<10-HEAVY-22-MEDIUM-31>LIGHT, for SG 0.87-LIGHT-0.92-MEDIUM-1>HEAVY.
+API=(141.5/SG)-131.5, while SG=141.5/('API+131.5), for water API=10 and SG=1, the ranges for API EXTRA EXTRA HEAVY<10-HEAVY-22-MEDIUM-31>LIGHT, for SG LIGHT<0.87-MEDIUM-0.92-HEAVY-1.
 Pressure gradient of water is 0.433psi/ft or 9.81kPa/m. 
 EUR - Estimated ultimate recovery refers to the amount of oil forcasted to be produced from a particular well.
 OWC - Oil water contact, GWC- Gas water contact, GOC- Gas oil contact - all these are points on the grapsh where the two mentioned fluids meet.
@@ -25,7 +25,7 @@ PSC-Production sharing contract is an agreement that outlines profit split from 
 FPSO - is a floating, production, storage and offloading vessel, mostly used offshore.
 JV - joint venture, the act of companies coming together to share development and production cost for an oil bloc, profit also.
 Choke is the equipment used to regulates oil flow at the surface
-STOIIP - Stock tank oil in place is the amount of oil in the well. GIIP for gas. 
+STOIIP - Stock tank oil in place is the amount of oil in the reservoir at discovery, before anything was produced. GIIP for gas. 
 N is original oil in place ie, oil in the ground Np is cumulative oil in produced, ie oil at the surface.p- is average pressure.
 Bo=rb/STB. rb is the volume of the oil in the reservoir witht the gas dissolved in it, while STB is the volume of same oil at the surface when the gas has escaped.
 Bubble point pressure is the pressure in the reservoir below which the dissolved gas in the oil starts escaping out, it is dewpoint pressure for gas, the pressure below which the liquid droplets starts forming and escaping from the gas.
@@ -55,7 +55,6 @@ Oil Saturation = Oil Volume/Pore Volume
 Fraction of oil recovered=(Initial Oil Saturation-Residual Oil Saturation)/Initial oil saturation.
 Production well takes fluid out of the reservoir, injection well introduces fluids into the reservoir.
 Water cut is the fraction of produced liquids that is water qw/(qw+qo). Connate water is water that has been in the reservoir before the formation of hydrocarbon.
-Gravity drainage and rock and connate water expansion are also energies that push oil out of the reservoir. 
 Primary oil recovery is oil production using natural reservoir energy such as water drive etc. Secondary recovery is production using commonly engineered processes such as water flooding. Tertiary or EOR is production using advamced or not commonly engineered processes such as thermal recovery, chemical flooding
 Wetability is the tendency of a rock to preferentially favor flow of a fluid over another when we have two immiscible fluids.
 Snap off is when two fluids flowing through a pore and the wetting fluid constricts the non-wetting fluid at the pore throat.
